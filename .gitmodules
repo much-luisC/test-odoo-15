@@ -1,0 +1,4 @@
+[submodule "craftguide_customizations"]
+	path = craftguide_customizations
+	url = git@github.com:much-GmbH/craftguide-customizations.git
+	branch = main
